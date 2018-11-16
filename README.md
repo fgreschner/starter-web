@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 More text here, then morge changes from myfeature branch too.
 
 ## Introduction
+Paste Introduction here
 
 ## Purpose 
 
