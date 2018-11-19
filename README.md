@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 More text here, then morge changes from myfeature branch too.
+Updating emergency fix
 
 ## Introduction
 Paste Introduction here
